@@ -1,9 +1,9 @@
-import './App.css';
+import Guzergah from './Guzergah';
 
 function App() {
   return (
     <div className="App">
-      shut
+      <Guzergah />
     </div>
   );
 }
